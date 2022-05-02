@@ -1,0 +1,2 @@
+FIFO -> nlog(n) where n is the size of reference string
+LRU -> nlog(m) where n is the size of reference string and m is number of frames

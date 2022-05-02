@@ -1,0 +1,2 @@
+As seen from the code
+Time Complexity : O(Number of processes * Number of processes * Number of resources)
